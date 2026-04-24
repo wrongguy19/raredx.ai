@@ -1,0 +1,31 @@
+# ================================
+# RareDx AI - .gitignore
+# ================================
+
+# --- Generated model / output files (regenerate by running steps 1–3d) ---
+output_*.pkl
+output_*.csv
+
+# --- Raw data files (large, download separately) ---
+phenotype.hpoa
+rare_diseases_*.csv
+
+# --- Python cache ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual environments ---
+venv/
+.venv/
+env/
+
+# --- Streamlit ---
+.streamlit/
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
