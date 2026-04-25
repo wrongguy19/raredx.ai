@@ -3,8 +3,9 @@
 # ================================
 
 # --- Generated model / output files (regenerate by running steps 1–3d) ---
-output_*.pkl
-output_*.csv
+# Temporarily commented out below so Streamlit Cloud can access the models!
+# output_*.pkl
+# output_*.csv
 
 # --- Raw data files (large, download separately) ---
 phenotype.hpoa

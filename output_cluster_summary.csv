@@ -1,0 +1,16 @@
+cluster_id,label,size,tier1_pct,dominant_onset,dominant_inh
+0,Adult Onset (Unknown),253,0.0,Adult,Unknown
+1,Infancy (Autosomal dominant),954,0.0,"Infancy, Neonatal",Autosomal dominant
+2,Critical Neonatal (Autosomal recessive),1004,100.0,"Infancy, Neonatal",Autosomal recessive
+3,Unknown (Autosomal recessive),230,0.0,Unknown,Autosomal recessive
+4,All Ages (Autosomal recessive),343,0.0,All ages,Autosomal recessive
+5,Adult Onset (Not applicable),414,0.0,Adult,Not applicable
+6,All Ages (Unknown),312,0.0,All ages,Unknown
+7,Childhood Onset (Autosomal recessive),863,0.0,Childhood,Autosomal recessive
+8,Infancy (Unknown),776,0.0,"Infancy, Neonatal",Unknown
+9,Unknown (Not applicable),145,0.0,Unknown,Not applicable
+10,All Ages (Not applicable),312,0.0,All ages,Not applicable
+11,Unknown (Autosomal dominant),280,0.0,Unknown,Autosomal dominant
+12,Critical Neonatal (Autosomal recessive),390,89.5,"Infancy, Neonatal",Autosomal recessive
+13,Adult Onset (Autosomal dominant),238,0.0,Adult,Autosomal dominant
+14,Infancy (Unknown),860,0.0,"Infancy, Neonatal",Unknown

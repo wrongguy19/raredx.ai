@@ -1,0 +1,362 @@
+OrphaCode,DiseaseName,AgeOfOnset,TypeOfInheritance,urgency_tier,anomaly_score
+154,Familial isolated dilated cardiomyopathy,All ages,"Autosomal dominant, Autosomal recessive, Mitochondrial inheritance, X-linked recessive",3,-0.5291218069196764
+220386,Semilobar holoprosencephaly,"Infancy, Neonatal","Multigenic/multifactorial, Not applicable",2,-0.5104095359588243
+791,Retinitis pigmentosa,"Adolescent, Adult, Childhood","Autosomal dominant, Autosomal recessive, Mitochondrial inheritance, X-linked recessive",2,-0.500747587093007
+1047,Sideroblastic anemia,All ages,"Autosomal dominant, Autosomal recessive, Mitochondrial inheritance, Not applicable, X-linked dominant, X-linked recessive",3,-0.4986366250461823
+166,Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy,All ages,"Autosomal dominant, Autosomal recessive, X-linked dominant, X-linked recessive",3,-0.4956301822604521
+697160,Infantile epileptic spasms syndrome,Unknown,"Autosomal dominant, Autosomal recessive, X-linked dominant",3,-0.49188323356788344
+99796,Subcortical band heterotopia,Unknown,"Autosomal recessive, Unknown, X-linked recessive",3,-0.4885095801627673
+34533,Corneal dystrophy,All ages,"Autosomal dominant, Autosomal recessive, Mitochondrial inheritance, Not applicable, X-linked recessive",3,-0.4824325755570935
+699605,NEMO deleted exon 5 autoinflammatory syndrome,Unknown,"X-linked dominant, X-linked recessive",3,-0.48217764753150644
+281210,X-linked ichthyosis syndrome,Unknown,"Not applicable, X-linked dominant, X-linked recessive",3,-0.48088035890638814
+93926,Midline interhemispheric variant of holoprosencephaly,"Infancy, Neonatal","Multigenic/multifactorial, Not applicable",2,-0.4799083312804449
+209,Cutis laxa,Unknown,"Autosomal dominant, Autosomal recessive, Not applicable, X-linked recessive",3,-0.4785080999705568
+715143,Heterozygous beta-thalassemia intermedia with supernumerary alpha-globin gene,Unknown,Autosomal recessive,3,-0.47824685017075774
+93924,Lobar holoprosencephaly,"Infancy, Neonatal","Multigenic/multifactorial, Not applicable",2,-0.47152153243003403
+93925,Alobar holoprosencephaly,"Infancy, Neonatal","Multigenic/multifactorial, Not applicable",2,-0.47152153243003403
+64747,X-linked Charcot-Marie-Tooth disease,Unknown,"X-linked dominant, X-linked recessive",3,-0.4692699272396631
+329903,Immunoglobulin-mediated membranoproliferative glomerulonephritis,Unknown,"Multigenic/multifactorial, Unknown",3,-0.4691740794666199
+714070,"Incomplete congenital stationary night blindness, Schubert-Bornschein type",Unknown,"Autosomal recessive, X-linked recessive",3,-0.4658395968202919
+714090,"Congenital stationary night blindness, Schubert-Bornschein type",Unknown,"Autosomal recessive, X-linked recessive",3,-0.4658395968202919
+388,Hirschsprung disease,"Childhood, Infancy, Neonatal","Autosomal dominant, Autosomal recessive, Multigenic/multifactorial, Not applicable",1,-0.46581517487787594
+254837,Unspecified mitochondrial disorder,Unknown,"Autosomal recessive, X-linked recessive",3,-0.4634983197745052
+67038,B-cell chronic lymphocytic leukemia,Adult,"Multigenic/multifactorial, Not applicable",3,-0.4622395741107348
+280195,Septopreoptic holoprosencephaly,"Infancy, Neonatal",Multigenic/multifactorial,2,-0.46217807854339066
+100031,Hypoplastic amelogenesis imperfecta,Unknown,"Autosomal dominant, Autosomal recessive, X-linked dominant",3,-0.4618207847807045
+54260,Left ventricular noncompaction,All ages,"Autosomal dominant, Autosomal recessive, Mitochondrial inheritance, X-linked recessive",3,-0.46052370988103497
+247765,X-linked cerebellar ataxia,Unknown,"X-linked dominant, X-linked recessive",3,-0.4602101842148039
+157798,Serrated polyposis syndrome,"Adult, Elderly","Autosomal dominant, Multigenic/multifactorial, Unknown",3,-0.4598740384306404
+692305,Triglyceride deposit cardiomyovasculopathy,Unknown,"Autosomal recessive, Unknown",3,-0.4592340744042649
+701,Alopecia universalis,All ages,"Autosomal recessive, Multigenic/multifactorial",3,-0.4584466658071125
+101063,Situs inversus totalis,Unknown,"Autosomal dominant, Autosomal recessive, Not applicable",3,-0.458346113501055
+715128,Hemoglobin E-beta-thalassemia major,Unknown,Autosomal recessive,3,-0.45595410500164263
+715135,Hemoglobin Lepore-beta-thalassemia intermedia,Unknown,Autosomal recessive,3,-0.45595410500164263
+695140,Sickle cell-beta zero-thalassemia,Unknown,Autosomal recessive,3,-0.45595410500164263
+700111,Homozygous hemoglobin O Arab disease,Unknown,Autosomal recessive,3,-0.45595410500164263
+715140,Hemoglobin Lepore-beta-thalassemia major,Unknown,Autosomal recessive,3,-0.45595410500164263
+695147,Sickle cell-beta plus-thalassemia,Unknown,Autosomal recessive,3,-0.45595410500164263
+715125,Hemoglobin E-beta-thalassemia intermedia,Unknown,Autosomal recessive,3,-0.45595410500164263
+99757,Embryonal rhabdomyosarcoma,Unknown,Multigenic/multifactorial,3,-0.45541183115229555
+168629,Autosomal thrombocytopenia with normal platelets,Unknown,"Autosomal dominant, Autosomal recessive",3,-0.4554107615985799
+2032,Idiopathic pulmonary fibrosis,Adult,Multigenic/multifactorial,3,-0.45432839714062
+364043,ALK-positive large B-cell lymphoma,Unknown,"Multigenic/multifactorial, Not applicable",3,-0.45318864006954085
+300849,Diffuse large B-cell lymphoma of the central nervous system,Unknown,"Multigenic/multifactorial, Not applicable",3,-0.45318864006954085
+1934,Early infantile developmental and epileptic encephalopathy,Neonatal,"Autosomal dominant, Autosomal recessive, Not applicable, X-linked recessive",1,-0.4513867929004321
+100033,Hypomaturation amelogenesis imperfecta,Unknown,"Autosomal recessive, X-linked dominant",3,-0.4505357758778943
+158766,Typical urticaria pigmentosa,Unknown,"Autosomal dominant, Unknown",3,-0.4502578710069678
+158769,Plaque-form urticaria pigmentosa,Unknown,"Autosomal dominant, Unknown",3,-0.4502578710069678
+158778,Isolated bone marrow mastocytosis,Unknown,"Autosomal dominant, Unknown",3,-0.4502578710069678
+158772,Nodular urticaria pigmentosa,Unknown,"Autosomal dominant, Unknown",3,-0.4502578710069678
+715157,Low oxygen affinity beta chain hemoglobin disease,Unknown,Autosomal dominant,3,-0.4497235980529454
+254905,Isolated cytochrome C oxidase deficiency,Unknown,"Autosomal recessive, Mitochondrial inheritance",3,-0.44733985947988447
+714737,Diffuse capillary malformation with overgrowth,Unknown,Not applicable,3,-0.44720607533854945
+330041,Hemoglobin M disease,No data available,Autosomal dominant,3,-0.44719942089232456
+441447,Early-onset posterior subcapsular cataract,Unknown,"Autosomal dominant, Autosomal recessive",3,-0.4466380092678934
+93110,Posterior urethral valve,All ages,"Autosomal recessive, Not applicable, X-linked recessive",3,-0.4466012158481376
+478,Kallmann syndrome,"Adolescent, Childhood","Autosomal dominant, Autosomal recessive, Multigenic/multifactorial, X-linked recessive",2,-0.44586219913326636
+1531,Craniosynostosis,"Infancy, Neonatal","Autosomal dominant, Autosomal recessive, Not applicable, Unknown, X-linked recessive",1,-0.4457097314243196
+231393,Beta-thalassemia-X-linked thrombocytopenia syndrome,No data available,X-linked recessive,3,-0.44463646292101644
+63443,Rare epithelial tumor of stomach,Adult,"Multigenic/multifactorial, Not applicable",3,-0.4445195084457814
+716765,Slow-channel congenital myasthenic syndrome,Unknown,"Autosomal dominant, Autosomal recessive",3,-0.44430694537175813
+716899,Congenital myasthenic syndrome due to defective synaptic vesicles exocytosis,Unknown,"Autosomal dominant, Autosomal recessive",3,-0.44430694537175813
+716742,Congenital myasthenic syndrome with kinetic defect,Unknown,"Autosomal dominant, Autosomal recessive",3,-0.44430694537175813
+716758,Fast-channel congenital myasthenic syndrome,Unknown,"Autosomal dominant, Autosomal recessive",3,-0.44430694537175813
+177929,Bleeding disorder in hemophilia B carriers,Unknown,X-linked recessive,3,-0.44428333825483274
+696945,X-linked common variable immunodeficiency phenotype due to SH3KBP1 deficiency,Unknown,X-linked recessive,3,-0.44428333825483274
+700163,SMPX-related distal myopathy,Unknown,X-linked recessive,3,-0.44428333825483274
+700325,NKAP-related intellectual disability-facial dysmorphism-marfanoid habitus-scoliosis syndrome,Unknown,X-linked recessive,3,-0.44428333825483274
+70573,Small cell lung cancer,Adult,Not applicable,3,-0.4441795269416531
+664410,Brain abnormalities-severe developmental delay-facial dysmorphism-intellectual disability syndrome,Unknown,"Autosomal dominant, Not applicable",3,-0.44351045207851625
+280200,Microform holoprosencephaly,"Childhood, Infancy, Neonatal",Multigenic/multifactorial,2,-0.443195129656724
+2498,Syndactyly type 8,Unknown,"Autosomal dominant, X-linked recessive",3,-0.443121433610995
+101016,Romano-Ward syndrome,All ages,"Autosomal dominant, Autosomal recessive",3,-0.44292143665206574
+1333,Familial pancreatic carcinoma,Adult,"Autosomal dominant, Multigenic/multifactorial",3,-0.44262452410613523
+90291,Systemic sclerosis,Adult,"Multigenic/multifactorial, Not applicable",3,-0.4423410050232537
+708203,Intellectual disability-small hands and feet-drug-resistant epilepsy syndrome,Unknown,X-linked dominant,3,-0.4413089912824
+714652,PCDH19 clustering epilepsy,Unknown,X-linked dominant,3,-0.4413089912824
+3157,Septo-optic dysplasia spectrum,"Antenatal, Infancy, Neonatal","Autosomal dominant, Autosomal recessive, Multigenic/multifactorial, Not applicable",1,-0.44034696257770967
+432,Normosmic congenital hypogonadotropic hypogonadism,"Infancy, Neonatal","Autosomal dominant, Autosomal recessive, Multigenic/multifactorial, X-linked recessive",1,-0.4400762610150167
+2162,Holoprosencephaly,"Antenatal, Neonatal","Autosomal recessive, Multigenic/multifactorial, Not applicable, Oligogenic, X-linked dominant",1,-0.4396238618449501
+685,Hereditary spastic paraplegia,All ages,"Autosomal dominant, Autosomal recessive, X-linked recessive",3,-0.4395144574713561
+35689,Primary lateral sclerosis,"Adult, Elderly","Autosomal dominant, Autosomal recessive, Not applicable",3,-0.4394087995696662
+99756,Alveolar rhabdomyosarcoma,Unknown,Multigenic/multifactorial,3,-0.439392586495463
+506,Leigh syndrome,All ages,"Autosomal recessive, Mitochondrial inheritance, X-linked recessive",3,-0.4386463389639628
+183422,Polymalformative genetic syndrome with increased risk of developing cancer,All ages,"Autosomal dominant, Autosomal recessive",3,-0.4382229704537947
+95157,Acute hepatic porphyria,All ages,"Autosomal dominant, Autosomal recessive",3,-0.4382229704537947
+697389,Combined immunodeficiency due to HELIOS deficiency,Unknown,"Autosomal dominant, Autosomal recessive",3,-0.4381715553472675
+714096,"Congenital stationary night blindness, Riggs type",Unknown,"Autosomal dominant, Autosomal recessive",3,-0.4381715553472675
+891,Familial exudative vitreoretinopathy,"Infancy, Neonatal","Autosomal dominant, Autosomal recessive, X-linked recessive",1,-0.43789481624566146
+2924,Isolated polycystic liver disease,Adult,"Autosomal dominant, Not applicable",3,-0.4376054663897715
+93321,Isolated radial hemimelia,"Antenatal, Infancy, Neonatal","Multigenic/multifactorial, X-linked recessive",2,-0.43750282777300264
+99068,Complete atrioventricular septal defect-tetralogy of Fallot,Unknown,"Autosomal dominant, Not applicable",3,-0.43655214709305573
+707789,Unstable alpha globin chain variant disease,Unknown,Autosomal dominant,3,-0.43579056325034726
+707983,Early-onset autosomal recessive TTN-related distal myopathy,Unknown,Autosomal recessive,3,-0.43552117971490634
+98555,Microphthalmia-anophthalmia-coloboma,"Antenatal, Neonatal","Autosomal dominant, Autosomal recessive, X-linked recessive",1,-0.43532568445956066
+618,Familial melanoma,Adult,"Autosomal dominant, Multigenic/multifactorial",3,-0.4344565798420486
+231641,Rare non surgically correctable form of primary aldosteronism,Unknown,"Autosomal dominant, Not applicable",3,-0.43377594796323427
+232,Sickle cell anemia,All ages,Autosomal recessive,3,-0.4324884939999517
+293888,"Inherited isolated arrhythmogenic cardiomyopathy, dominant-left variant",Unknown,Autosomal dominant,3,-0.43242180251180584
+293899,"Inherited isolated arrhythmogenic ventricular dysplasia, biventricular variant",Unknown,Autosomal dominant,3,-0.43242180251180584
+293910,"Inherited isolated arrhythmogenic cardiomyopathy, dominant-right variant",Unknown,Autosomal dominant,3,-0.43242180251180584
+718,Isolated Pierre Robin sequence,"Antenatal, Neonatal","Autosomal dominant, Multigenic/multifactorial, Not applicable, Unknown",3,-0.43213493534924985
+391490,Adult-onset myasthenia gravis,Adult,"Multigenic/multifactorial, Not applicable",3,-0.4319655861971693
+86875,Adult T-cell leukemia/lymphoma,Adult,"Multigenic/multifactorial, Not applicable",3,-0.4319655861971693
+86879,Extranodal nasal NK/T cell lymphoma,Adult,"Multigenic/multifactorial, Not applicable",3,-0.4319655861971693
+95432,Primary progressive aphasia,Adult,"Multigenic/multifactorial, Not applicable",3,-0.4319655861971693
+98838,Primary mediastinal large B-cell lymphoma,Adult,"Multigenic/multifactorial, Not applicable",3,-0.4319655861971693
+220393,Diffuse cutaneous systemic sclerosis,Adult,"Multigenic/multifactorial, Not applicable",3,-0.4319655861971693
+653722,Digenic Alport syndrome,Unknown,"Autosomal dominant, Autosomal recessive",3,-0.4317015564783679
+163927,Pustulosis palmaris et plantaris,Unknown,"Autosomal dominant, Autosomal recessive",3,-0.4317015564783679
+254704,Genetic hyperferritinemia without iron overload,No data available,"Autosomal dominant, Autosomal recessive",3,-0.4317015564783679
+1331,Familial prostate cancer,Adult,Not applicable,3,-0.4315050951333656
+141291,Cleft lip and alveolus,"Infancy, Neonatal",Multigenic/multifactorial,2,-0.43135952483348095
+708123,Autosomal dominant distal nebulin myopathy,Unknown,Autosomal dominant,3,-0.4307788438866883
+2609,Isolated complex I deficiency,All ages,"Autosomal recessive, Mitochondrial inheritance, X-linked dominant",3,-0.4303074190643471
+687695,10p13-p14 deletion syndrome,Unknown,Not applicable,3,-0.4297752070670366
+93172,"Renal dysplasia, unilateral",All ages,"Autosomal dominant, Not applicable",3,-0.42971362785205586
+715154,Low oxygen affinity alpha chain hemoglobin disease,Unknown,Autosomal dominant,3,-0.42954624268969716
+2573,Moyamoya disease,All ages,"Autosomal dominant, Autosomal recessive, Multigenic/multifactorial, X-linked recessive",3,-0.42948914409228744
+692296,Idiopathic triglyceride deposit cardiomyovasculopathy,Unknown,Unknown,3,-0.4293383976155646
+715326,Spinal epidural arteriovenous malformation,Unknown,Unknown,3,-0.4293383976155646
+686556,Isolated congenital cholesteatoma of the middle ear,Unknown,Unknown,3,-0.4293383976155646
+609,Tibial muscular dystrophy,Adult,"Autosomal dominant, Autosomal recessive",3,-0.42929101658285873
+314701,Primary systemic amyloidosis,Unknown,Not applicable,3,-0.4291986741871794
+423693,Double outlet right ventricle with subaortic or doubly committed ventricular septal defect,Unknown,Multigenic/multifactorial,3,-0.42879733090650646
+269215,Isolated Dandy-Walker malformation without hydrocephalus,Unknown,Multigenic/multifactorial,3,-0.42879733090650646
+99046,Double outlet right ventricle with non-committed subpulmonary ventricular septal defect,Unknown,Multigenic/multifactorial,3,-0.42879733090650646
+99045,Double outlet right ventricle with subpulmonary ventricular septal defect,Unknown,Multigenic/multifactorial,3,-0.42879733090650646
+99043,Double outlet right ventricle with subaortic or doubly committed ventricular septal defect with pulmonary stenosis,Unknown,Multigenic/multifactorial,3,-0.42879733090650646
+423712,"Double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy",Unknown,Multigenic/multifactorial,3,-0.42879733090650646
+334,Hereditary atrial fibrillation,"Adult, Elderly",Autosomal dominant,3,-0.4285972516454814
+3318,Essential thrombocythemia,All ages,"Multigenic/multifactorial, Not applicable",3,-0.42856194434444533
+688581,Midface hypoplasia-hearing impairment-elliptocytosis-nephrocalcinosis syndrome,Unknown,X-linked recessive,3,-0.4282278925064315
+545,Follicular lymphoma,Adult,"Multigenic/multifactorial, Not applicable",3,-0.42817041126769206
+443057,Sporadic porphyria cutanea tarda,Unknown,Multigenic/multifactorial,3,-0.42804533615118406
+101685,Rare non-syndromic intellectual disability,"Childhood, Infancy","Autosomal dominant, Autosomal recessive, X-linked dominant, X-linked recessive",2,-0.42790166713468064
+2781,Osteopetrosis and related disorders,All ages,"Autosomal dominant, Autosomal recessive, X-linked recessive",3,-0.4271944278894631
+748,Mendelian susceptibility to mycobacterial diseases,All ages,"Autosomal dominant, Autosomal recessive, X-linked recessive",3,-0.4271944278894631
+98627,Posterior corneal dystrophy,All ages,"Autosomal dominant, Autosomal recessive, X-linked recessive",3,-0.4271944278894631
+308670,"Glycogen storage disease due to glycogen branching enzyme deficiency, congenital neuromuscular form",Unknown,Autosomal recessive,3,-0.427107613289893
+308684,"Glycogen storage disease due to glycogen branching enzyme deficiency, childhood combined hepatic and myopathic form",Unknown,Autosomal recessive,3,-0.427107613289893
+308712,"Glycogen storage disease due to glycogen branching enzyme deficiency, adult neuromuscular form",Unknown,Autosomal recessive,3,-0.427107613289893
+308698,"Glycogen storage disease due to glycogen branching enzyme deficiency, childhood neuromuscular form",Unknown,Autosomal recessive,3,-0.427107613289893
+308655,"Glycogen storage disease due to glycogen branching enzyme deficiency, fatal perinatal neuromuscular form",Unknown,Autosomal recessive,3,-0.427107613289893
+308638,"Glycogen storage disease due to glycogen branching enzyme deficiency, non progressive hepatic form",Unknown,Autosomal recessive,3,-0.427107613289893
+308621,"Glycogen storage disease due to glycogen branching enzyme deficiency, progressive hepatic form",Unknown,Autosomal recessive,3,-0.427107613289893
+2966,Properdin deficiency,Unknown,X-linked recessive,3,-0.4269900239250614
+852,X-linked thrombocytopenia with normal platelets,Unknown,X-linked recessive,3,-0.4269900239250614
+101088,X-linked hyper-IgM syndrome,Unknown,X-linked recessive,3,-0.4269900239250614
+658946,Early-onset immune dysregulation with autoimmunity due to DOCK11 partial deficiency,Unknown,X-linked recessive,3,-0.4269900239250614
+675628,TLR8-related inflammation-severe neutropenia-bone marrow failure-lymphoproliferation syndrome,Unknown,X-linked recessive,3,-0.4269900239250614
+91489,Isolated congenital megalocornea,Unknown,X-linked recessive,3,-0.4269900239250614
+93349,X-linked spondyloepimetaphyseal dysplasia,Unknown,X-linked recessive,3,-0.4269900239250614
+90389,Telangiectasia macularis eruptiva perstans,Unknown,Unknown,3,-0.42665823378615225
+243,"46,XX gonadal dysgenesis","Adolescent, Adult","Autosomal dominant, Autosomal recessive, Not applicable, X-linked recessive",3,-0.42633854360803514
+199302,Isolated cleft lip,"Infancy, Neonatal",Multigenic/multifactorial,2,-0.42626861922471054
+199306,Cleft lip/palate,"Infancy, Neonatal",Multigenic/multifactorial,2,-0.42626861922471054
+576232,Partial atrioventricular septal defect with ventricular hypoplasia,Unknown,Not applicable,3,-0.4259964995479189
+98619,Rare isolated myopia,Unknown,"Autosomal dominant, Autosomal recessive",3,-0.42591445180275905
+646113,Intermediate collagen VI-related muscular dystrophy,Unknown,"Autosomal dominant, Autosomal recessive",3,-0.42591445180275905
+100032,Hypocalcified amelogenesis imperfecta,Unknown,"Autosomal dominant, Autosomal recessive",3,-0.42591445180275905
+166084,Von Willebrand disease type 2A,Unknown,"Autosomal dominant, Autosomal recessive",3,-0.42591445180275905
+53698,Myosin storage myopathy,Unknown,"Autosomal dominant, Autosomal recessive",3,-0.42591445180275905
+734,Alpha delta granule deficiency,Unknown,"Autosomal dominant, Autosomal recessive",3,-0.42591445180275905
+189466,Familial isolated hypoparathyroidism due to impaired PTH secretion,Unknown,"Autosomal dominant, Autosomal recessive",3,-0.42591445180275905
+200421,Immunodeficiency with factor H anomaly,Unknown,"Autosomal dominant, Autosomal recessive",3,-0.42591445180275905
+248340,Isolated delta-storage pool disease,Unknown,"Autosomal dominant, Autosomal recessive",3,-0.42591445180275905
+2911,Poland syndrome,"Antenatal, Infancy, Neonatal","Autosomal dominant, Autosomal recessive, Multigenic/multifactorial, Not applicable",1,-0.4257296757755398
+98974,Fuchs endothelial corneal dystrophy,Adult,"Autosomal dominant, Multigenic/multifactorial, Not applicable",3,-0.4254621097414378
+98904,Congenital myopathy with excess of thin filaments,Unknown,Autosomal dominant,3,-0.42527374843881194
+227535,Hereditary breast cancer,"Adult, Elderly","Autosomal dominant, Multigenic/multifactorial",3,-0.4247155218416932
+69028,Dysostosis with brachydactyly,"Infancy, Neonatal","Autosomal dominant, Autosomal recessive, X-linked recessive",1,-0.4241510878853201
+98849,Systemic mastocytosis with associated hematologic neoplasm,"Adult, Elderly",Not applicable,3,-0.4230127974882172
+254788,Mitochondrial DNA-related mitochondrial myopathy,Unknown,Mitochondrial inheritance,3,-0.422943449159015
+324601,X-linked cleft palate and ankyloglossia,"Infancy, Neonatal","X-linked dominant, X-linked recessive",2,-0.4227594556620627
+79495,X-linked congenital generalized hypertrichosis,Unknown,X-linked dominant,3,-0.4227151156237649
+716903,Autosomal recessive congenital myasthenic syndrome due to defective synaptic vesicles exocytosis,Unknown,Autosomal recessive,3,-0.42261952134558395
+716881,Congenital myasthenic syndrome due to a sodium channel 1.4 defect,Unknown,Autosomal recessive,3,-0.42261952134558395
+664699,EBV-induced lymphoproliferative disease due to RASGRP1 deficiency,Unknown,Autosomal recessive,3,-0.42261952134558395
+206653,Autosomal recessive distal myopathy,Unknown,Autosomal recessive,3,-0.42261952134558395
+708129,Autosomal recessive ACTN2-related distal myopathy,Unknown,Autosomal recessive,3,-0.42261952134558395
+716889,Congenital myasthenic syndromes due to defective axonal transport,Unknown,Autosomal recessive,3,-0.42261952134558395
+320346,Pure or complex autosomal recessive spastic paraplegia,Unknown,Autosomal recessive,3,-0.42261952134558395
+708166,Severe neurodevelopmental disorder-facial dysmorphism-cerebral-renal-cardiac anomalies syndrome,Unknown,Autosomal recessive,3,-0.42261952134558395
+716893,Congenital myasthenic syndrome due to defective synthesis or recycling of acetylcholine,Unknown,Autosomal recessive,3,-0.42261952134558395
+700484,Late infantile CLN8 disease,Unknown,Autosomal recessive,3,-0.42261952134558395
+307804,Autosomal recessive disease with diffuse palmoplantar keratoderma as a major feature,Unknown,Autosomal recessive,3,-0.42261952134558395
+308041,Autosomal recessive disease associated with punctate palmoplantar keratoderma as a major feature,Unknown,Autosomal recessive,3,-0.42261952134558395
+699578,Combined immunodeficiency with low Ig due to BCL10 deficiency,Unknown,Autosomal recessive,3,-0.42261952134558395
+699590,Immune dysregulation with immunodeficiency due to AIOLOS haploinsufficiency,Unknown,Autosomal recessive,3,-0.42261952134558395
+716772,Congenital myasthenic syndrome with kinetic defect due to reduced ion channel conductance,Unknown,Autosomal recessive,3,-0.42261952134558395
+695110,MAN2B2-CDG,Unknown,Autosomal recessive,3,-0.42261952134558395
+696242,PPARG-associated congenital generalized lipodystrophy,Unknown,Autosomal recessive,3,-0.42261952134558395
+100982,Autosomal recessive pure spastic paraplegia,Unknown,Autosomal recessive,3,-0.42261952134558395
+689021,Asymptomatic hyperCKemia-myalgia-rhabdomyolysis syndrome,Unknown,Autosomal recessive,3,-0.42261952134558395
+91024,Autosomal recessive axonal hereditary motor and sensory neuropathy,Unknown,Autosomal recessive,3,-0.42261952134558395
+603699,Recessive KLHL7-related disorder,Unknown,Autosomal recessive,3,-0.42261952134558395
+98356,Autosomal recessive isolated diffuse palmoplantar keratoderma,Unknown,Autosomal recessive,3,-0.42261952134558395
+140477,Autosomal recessive hereditary sensory and autonomic neuropathy,Unknown,Autosomal recessive,3,-0.42261952134558395
+98357,Autosomal recessive disease with focal palmoplantar keratoderma as a major feature,Unknown,Autosomal recessive,3,-0.42261952134558395
+98097,Autosomal recessive cerebellar ataxia due to a DNA repair defect,Unknown,Autosomal recessive,3,-0.42261952134558395
+714481,SCGN-related severe early-onset hereditary ulcerative colitis,Unknown,Autosomal recessive,3,-0.42261952134558395
+140459,Autosomal recessive hereditary demyelinating motor and sensory neuropathy,Unknown,Autosomal recessive,3,-0.42261952134558395
+100981,Autosomal recessive complex spastic paraplegia,Unknown,Autosomal recessive,3,-0.42261952134558395
+714477,Early-onset inflammatory bowel disease-ulcerative skin lesions-immunodeficiency syndrome,Unknown,Autosomal recessive,3,-0.42261952134558395
+552,MODY,"Adolescent, Adult, Childhood","Autosomal dominant, Not applicable",2,-0.4226016783058969
+93276,Polyostotic fibrous dysplasia,Unknown,Unknown,3,-0.42236946118275603
+146,Differentiated thyroid carcinoma,"Adolescent, Adult, Childhood",Not applicable,2,-0.4216459131435868
+566396,Chronic mast cell leukemia,Unknown,Not applicable,3,-0.42157603727182746
+566393,Acute mast cell leukemia,Unknown,Not applicable,3,-0.42157603727182746
+1872,Cone rod dystrophy,"Adolescent, Adult, Childhood","Autosomal dominant, Autosomal recessive, X-linked recessive",2,-0.42156357629147445
+442835,Non-specific early-onset epileptic encephalopathy,"Infancy, Neonatal","Autosomal dominant, Autosomal recessive, Not applicable, X-linked recessive",1,-0.4213698175899857
+370,Glycogen storage disease due to phosphorylase kinase deficiency,All ages,"Autosomal recessive, X-linked recessive",3,-0.4203943115672528
+77240,Primary lymphedema,All ages,"Autosomal dominant, Autosomal recessive",3,-0.42006058694575743
+295243,"Macrodactyly of toes, unilateral",Unknown,Autosomal dominant,3,-0.4200408115564517
+295239,"Macrodactyly of fingers, unilateral",Unknown,Autosomal dominant,3,-0.4200408115564517
+35981,Polymicrogyria,Childhood,"Autosomal dominant, Autosomal recessive, Not applicable, X-linked dominant",2,-0.42003627817674405
+497737,Epidermolytic nevus,All ages,Unknown,3,-0.4199601302808834
+418,Congenital adrenal hyperplasia,Unknown,Autosomal recessive,3,-0.41978491054811784
+95409,Acute adrenal insufficiency,All ages,"Autosomal recessive, Not applicable, X-linked dominant",3,-0.41972115255297876
+100070,Progressive non-fluent aphasia,Adult,"Multigenic/multifactorial, Not applicable",3,-0.41968286341135935
+700,Alopecia totalis,All ages,Multigenic/multifactorial,3,-0.41936991473538726
+99798,Oligodontia,Childhood,"Autosomal dominant, Autosomal recessive, X-linked recessive",2,-0.41936162940118304
+636970,Autosomal recessive myosin storage myopathy,Unknown,Autosomal recessive,3,-0.41934580016700823
+238666,Isolated congenital hypogonadotropic hypogonadism,"Adolescent, Infancy, Neonatal","Autosomal dominant, Autosomal recessive, Oligogenic, Unknown, X-linked recessive",1,-0.41932742306015
+176,Non-rhizomelic chondrodysplasia punctata,"Infancy, Neonatal","Autosomal dominant, Autosomal recessive, X-linked dominant, X-linked recessive",1,-0.41922250879823125
+210159,Adult hepatocellular carcinoma,"Adult, Elderly",Not applicable,3,-0.41893899127462975
+101351,Familial isolated congenital asplenia,Unknown,Autosomal dominant,3,-0.4186719786142203
+99886,Transient neonatal diabetes mellitus,"Antenatal, Neonatal","Autosomal dominant, Autosomal recessive, Not applicable",1,-0.4186483203302891
+100069,Semantic dementia,Adult,"Multigenic/multifactorial, Not applicable",3,-0.41862144512495747
+700477,Adult CLN6 disease,Unknown,Autosomal recessive,3,-0.4185552666715839
+506334,Familial steroid-resistant nephrotic syndrome with adrenal insufficiency,Unknown,Autosomal recessive,3,-0.4185552666715839
+700487,Congenital CLN10 disease,Unknown,Autosomal recessive,3,-0.4185552666715839
+700492,Late infantile CLN10 disease,Unknown,Autosomal recessive,3,-0.4185552666715839
+700497,Juvenile CLN10 disease,Unknown,Autosomal recessive,3,-0.4185552666715839
+700508,Distal muscle weakness-foot deformity-elevated sorbitol level-hereditary motor neuropathy,Unknown,Autosomal recessive,3,-0.4185552666715839
+699812,Adult CLN5 disease,Unknown,Autosomal recessive,3,-0.4185552666715839
+694937,Intellectual disability-peripheral neuropathy-corpus callosum abnormalities syndrome due to nudix hydrolase 2 deficiency,Unknown,Autosomal recessive,3,-0.4185552666715839
+700472,Juvenile CLN6 disease,Unknown,Autosomal recessive,3,-0.4185552666715839
+699780,Juvenile CLN3 disease,Unknown,Autosomal recessive,3,-0.4185552666715839
+699769,Juvenile CLN2 disease,Unknown,Autosomal recessive,3,-0.4185552666715839
+699761,Late infantile CLN2 disease,Unknown,Autosomal recessive,3,-0.4185552666715839
+699751,Infantile CLN2 disease,Unknown,Autosomal recessive,3,-0.4185552666715839
+699745,Adult CLN1 disease,Unknown,Autosomal recessive,3,-0.4185552666715839
+699739,Juvenile CLN1 disease,Unknown,Autosomal recessive,3,-0.4185552666715839
+699734,Late infantile CLN1 disease,Unknown,Autosomal recessive,3,-0.4185552666715839
+699718,Infantile CLN1 disease,Unknown,Autosomal recessive,3,-0.4185552666715839
+699807,Juvenile CLN5 disease,Unknown,Autosomal recessive,3,-0.4185552666715839
+699796,Protracted juvenile CLN3 disease,Unknown,Autosomal recessive,3,-0.4185552666715839
+700333,Hypotonia-speech impairment-severe cognitive delay syndrome due to UNC80 deficiency,Unknown,Autosomal recessive,3,-0.4185552666715839
+700336,Hypotonia-speech impairment-severe cognitive delay syndrome due to NALCN deficiency,Unknown,Autosomal recessive,3,-0.4185552666715839
+99854,Cree leukoencephalopathy,Unknown,Autosomal recessive,3,-0.4185552666715839
+708895,Tetrahydrobiopterin-unresponsive phenylketonuria,Unknown,Autosomal recessive,3,-0.4185552666715839
+693647,Agammaglobulinemia-early-onset hypertrophic cardiomyopathy-neutropenia syndrome,Unknown,Autosomal recessive,3,-0.4185552666715839
+693627,Agammaglobulinemia-skin involvement-failure to thrive syndrome,Unknown,Autosomal recessive,3,-0.4185552666715839
+714484,AGR2-related infantile-onset inflammatory bowel disease,Unknown,Autosomal recessive,3,-0.4185552666715839
+684247,Isolated growth hormone deficiency type IV,Unknown,Autosomal recessive,3,-0.4185552666715839
+714487,Congenital diarrhea-chronic gastrointestinal inflammation-ocular dysgenesis syndrome,Unknown,Autosomal recessive,3,-0.4185552666715839
+700467,Late infantile CLN6 disease,Unknown,Autosomal recessive,3,-0.4185552666715839
+714496,Immunodeficiency-congenital thrombocytopenia-hypereosinophilia-colitis-vasculitis syndrome,Unknown,Autosomal recessive,3,-0.4185552666715839
+714493,Congenital thrombocytopenia-recurrent infections syndrome due to WIP deficiency,Unknown,Autosomal recessive,3,-0.4185552666715839
+685067,Hypodontia-scalp hypotrichosis-facial dysmorphism syndrome,Unknown,Autosomal recessive,3,-0.4185552666715839
+664711,EBV-induced lymphoproliferative disease due to PRKCD deficiency,Unknown,Autosomal recessive,3,-0.4185552666715839
+707937,Distal arthrogryposis-progressive scoliosis-thumb deformity-impaired proprioception syndrome,Unknown,Autosomal recessive,3,-0.4185552666715839
+708171,Facial dysmorphism-corpus callosum hypoplasia-infantile epileptic encephalopathy,Unknown,Autosomal recessive,3,-0.4185552666715839
+708036,Ectodermal dysplasia with agenesis of maxillary lateral incisors and mandibular anterior teeth,Unknown,Autosomal recessive,3,-0.4185552666715839
+228429,Congenital generalized  lipodystrophy type 4,Unknown,Autosomal recessive,3,-0.4185552666715839
+714490,PERCC1-related congenital intractable malabsorptive diarrhea,Unknown,Autosomal recessive,3,-0.4185552666715839
+700124,Autosomal recessive hereditary chronic pancreatitis,Unknown,Autosomal recessive,3,-0.4185552666715839
+699615,Severe mendelian susceptibility to mycobacterial diseases due to complete IRF1 deficiency,Unknown,Autosomal recessive,3,-0.4185552666715839
+715623,Motor incoordination-myopathy-respiratory insufficiency-progressive cerebellar atrophy syndrome,Unknown,Autosomal recessive,3,-0.4185552666715839
+696894,Common variable immunodeficiency phenotype due to CD21 deficiency,Unknown,Autosomal recessive,3,-0.4185552666715839
+696907,Common variable immunodeficiency phenotype due to homozygous TACI deficiency,Unknown,Autosomal recessive,3,-0.4185552666715839
+696925,Adult-onset common variable immunodeficiency due to BAFF-receptor deficiency,Unknown,Autosomal recessive,3,-0.4185552666715839
+696206,Congenital generalized lipodystrophy type 3,Unknown,Autosomal recessive,3,-0.4185552666715839
+696942,Childhood-onset common variable immunodeficiency due to ARHGEF1 deficiency,Unknown,Autosomal recessive,3,-0.4185552666715839
+697067,Global developmental delay-intellectual disability-microcephaly-short stature-brain iron accumulation syndrome,Unknown,Autosomal recessive,3,-0.4185552666715839
+697734,ST3GAL3-CDG,Unknown,Autosomal recessive,3,-0.4185552666715839
+697394,Combined immunodeficiency due to c-REL deficiency,Unknown,Autosomal recessive,3,-0.4185552666715839
+694946,Alazami-Yuan syndrome,Unknown,Autosomal recessive,3,-0.4185552666715839
+696289,Congenital generalized lipodystrophy type 2,Unknown,Autosomal recessive,3,-0.4185552666715839
+718017,Combined immunodeficiency due to COPG1 deficiency,Unknown,Autosomal recessive,3,-0.4185552666715839
+696881,Common variable immunodeficiency phenotype due to CD19/CD81 deficiency,Unknown,Autosomal recessive,3,-0.4185552666715839
+715640,Rothmund-Thomson syndrome type 3,Unknown,Autosomal recessive,3,-0.4185552666715839
+699618,Severe mendelian susceptibility to mycobacterial diseases due to complete IFNG deficiency,Unknown,Autosomal recessive,3,-0.4185552666715839
+696189,Congenital generalized lipodystrophy type 1,Unknown,Autosomal recessive,3,-0.4185552666715839
+695783,EDEM3-CDG,Unknown,Autosomal recessive,3,-0.4185552666715839
+698085,Global developmental delay-intellectual disability-facial dysmorphism-pseudo-Pelger-Huët anomaly syndrome,Unknown,Autosomal recessive,3,-0.4185552666715839
+695183,Late-onset combined immunodeficiency due to ICOS deficiency,Unknown,Autosomal recessive,3,-0.4185552666715839
+694922,Childhood-onset stress-induced neurodegenerative ataxia-seizure syndrome,Unknown,Autosomal recessive,3,-0.4185552666715839
+715635,Rothmund-Thomson syndrome type 4,Unknown,Autosomal recessive,3,-0.4185552666715839
+293355,Methylmalonic acidemia without homocystinuria,All ages,"Autosomal dominant, Autosomal recessive, X-linked dominant",3,-0.41848425631876446
+631,Non-acquired isolated growth hormone deficiency,Neonatal,"Autosomal dominant, Autosomal recessive, X-linked recessive",1,-0.41806414978048645
+1646,Chromosome Y microdeletion syndrome,Adult,"Not applicable, Y-linked",3,-0.417944205933238
+1037,Arthrogryposis multiplex congenita,Neonatal,"Autosomal dominant, Autosomal recessive, Not applicable, X-linked recessive",1,-0.4179387152703894
+700188,Calf-predominant weakness-gastrocnemius medialis atrophy-distal myopathy,Unknown,Autosomal dominant,3,-0.41787657913543197
+693863,Splenic arteriovenous malformation,Unknown,Not applicable,3,-0.4173897050910233
+695131,Acinar cystic transformation of the pancreas,Unknown,Not applicable,3,-0.4173897050910233
+686468,Post 5-alpha-reductase inhibitors treatment syndrome,Unknown,Not applicable,3,-0.4173897050910233
+686475,Post-selective serotonin reuptake inhibitor sexual dysfunction,Unknown,Not applicable,3,-0.4173897050910233
+686462,Non-fibrotic hypersensitivity pneumonitis,Unknown,Not applicable,3,-0.4173897050910233
+686465,Fibrotic hypersensitivity pneumonitis,Unknown,Not applicable,3,-0.4173897050910233
+695023,Pure squamous carcinoma of the urothelial tract,Unknown,Not applicable,3,-0.4173897050910233
+688523,Splenic venous malformation,Unknown,Not applicable,3,-0.4173897050910233
+687741,Multisystem Langerhans cell histiocytosis,Unknown,Not applicable,3,-0.4173897050910233
+687738,Single-system multifocal Langerhans cell histiocytosis,Unknown,Not applicable,3,-0.4173897050910233
+687733,Pulmonary Langerhans cell histiocytosis,Unknown,Not applicable,3,-0.4173897050910233
+693826,Pancreatic arteriovenous malformation,Unknown,Not applicable,3,-0.4173897050910233
+687730,Unifocal Langerhans cell histiocytosis,Unknown,Not applicable,3,-0.4173897050910233
+696078,Central giant cell granuloma,Unknown,Not applicable,3,-0.4173897050910233
+576235,Partial atrioventricular septal defect without ventricular hypoplasia,Unknown,Not applicable,3,-0.4173897050910233
+689401,Acquired hypothalamic obesity,Unknown,Not applicable,3,-0.4173897050910233
+714160,Presumed ocular histoplasmosis syndrome,Unknown,Not applicable,3,-0.4173897050910233
+714046,Primary choroidal lymphoma,Unknown,Not applicable,3,-0.4173897050910233
+688995,Scarlet fever,Unknown,Not applicable,3,-0.4173897050910233
+714101,Acute idiopathic maculopathy,Unknown,Not applicable,3,-0.4173897050910233
+693839,Renal arteriovenous malformation,Unknown,Not applicable,3,-0.4173897050910233
+693846,Hepatic arteriovenous malformation,Unknown,Not applicable,3,-0.4173897050910233
+693855,Visceral arteriovenous malformation,Unknown,Not applicable,3,-0.4173897050910233
+694228,Congenital intrahepatic arterioportal fistula,Unknown,Not applicable,3,-0.4173897050910233
+693832,Gastrointestinal tract arteriovenous malformation,Unknown,Not applicable,3,-0.4173897050910233
+700139,Late-onset idiopathic chronic pancreatitis,Unknown,Not applicable,3,-0.4173897050910233
+714806,Multifocal sporadic venous malformation,Unknown,Not applicable,3,-0.4173897050910233
+700136,Early-onset idiopathic chronic pancreatitis,Unknown,Not applicable,3,-0.4173897050910233
+699697,Necrotizing fasciitis,Unknown,Not applicable,3,-0.4173897050910233
+699702,Necrotizing myositis,Unknown,Not applicable,3,-0.4173897050910233
+699068,Fontan-associated liver disease,Unknown,Not applicable,3,-0.4173897050910233
+698260,Carotid web,Unknown,Not applicable,3,-0.4173897050910233
+699678,Necrotizing cellulitis,Unknown,Not applicable,3,-0.4173897050910233
+715345,Isolated geographic pattern capillary malformation,Unknown,Not applicable,3,-0.4173897050910233
+698036,Fibromuscular dysplasia of the cervical and intracranial arteries,Unknown,Not applicable,3,-0.4173897050910233
+698069,Fibromuscular dysplasia of the arteries of the extremities,Unknown,Not applicable,3,-0.4173897050910233
+698063,Fibromuscular dysplasia of the visceral arteries,Unknown,Not applicable,3,-0.4173897050910233
+698059,Fibromuscular dysplasia of the coronary arteries,Unknown,Not applicable,3,-0.4173897050910233
+698043,Fibromuscular dysplasia of the renal arteries,Unknown,Not applicable,3,-0.4173897050910233
+369886,Homozygous 2p21 microdeletion syndrome,Unknown,Not applicable,3,-0.4173897050910233
+715284,Spinal cord arteriovenous malformation,Unknown,Not applicable,3,-0.4173897050910233
+695020,Urachal carcinoma,Unknown,Not applicable,3,-0.4173897050910233
+715302,Spinal pial arteriovenous fistula,Unknown,Not applicable,3,-0.4173897050910233
+714726,Retroperitoneal arteriovenous malformation,Unknown,Not applicable,3,-0.4173897050910233
+700133,Idiopathic chronic pancreatitis,Unknown,Not applicable,3,-0.4173897050910233
+662388,Isolated gallbladder duplication,Unknown,Not applicable,3,-0.4173897050910233
+714715,Pelvic arteriovenous malformation,Unknown,Not applicable,3,-0.4173897050910233
+662480,Isolated jejuno-ileal duplication,Unknown,Not applicable,3,-0.4173897050910233
+662473,Isolated duodenal duplication,Unknown,Not applicable,3,-0.4173897050910233
+715318,Acquired intracranial dural arteriovenous fistula,Unknown,Not applicable,3,-0.4173897050910233
+697091,Emergomycosis,Unknown,Not applicable,3,-0.4173897050910233
+714709,Mediastinal arteriovenous malformation,Unknown,Not applicable,3,-0.4173897050910233
+715331,Paraspinal arteriovenous malformation,Unknown,Not applicable,3,-0.4173897050910233
+697096,Cryptosporidiosis,Unknown,Not applicable,3,-0.4173897050910233
+697053,Talaromycosis,Unknown,Not applicable,3,-0.4173897050910233
+101334,African tick typhus,Unknown,Not applicable,3,-0.4173897050910233
+662392,Isolated colonic duplication,Unknown,Not applicable,3,-0.4173897050910233
+702,Pelizaeus-Merzbacher disease,All ages,"X-linked dominant, X-linked recessive",3,-0.41722396324975436
+99772,Cleft velum,"Infancy, Neonatal","Multigenic/multifactorial, Not applicable",2,-0.41703193075563794
+1576,Infantile bilateral striatal necrosis,All ages,"Autosomal dominant, Autosomal recessive, Mitochondrial inheritance, Not applicable",3,-0.4164880203156272
+99067,Complete atrioventricular septal defect with ventricular hypoplasia,Unknown,Autosomal dominant,3,-0.4162459709212779
+275555,Preeclampsia,Adult,Not applicable,3,-0.4160892633128987
+238624,Idiopathic intracranial hypertension,"Adult, Elderly",Not applicable,3,-0.4160892633128987
+54370,Primary membranoproliferative glomerulonephritis,Adult,Not applicable,3,-0.4160892633128987
+36258,Buerger disease,Adult,Not applicable,3,-0.4160892633128987
+319462,Inherited cancer-predisposing syndrome due to biallelic BRCA2 mutations,Unknown,Autosomal recessive,3,-0.4160542454979025
+528084,Non-specific syndromic intellectual disability,"Childhood, Infancy","Autosomal dominant, Autosomal recessive, X-linked recessive",2,-0.4157609482717737
